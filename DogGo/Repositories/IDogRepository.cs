@@ -5,6 +5,7 @@ namespace DogGo.Repositories
 {
     public interface IDogRepository
     {
+        List<Dog> GetDogsByOwnerId(int ownerId);
         List<Dog> GetAllDogs();
         Dog GetDogById(int id);
         void AddDog(Dog dog);
