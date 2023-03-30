@@ -810,3 +810,7 @@ C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\refint\DogGo.dll
 C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\DogGo.pdb
 C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\DogGo.genruntimeconfig.cache
 C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\ref\DogGo.dll
+C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Walkers\Edit.cshtml.g.cs
+C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Walks\Create.cshtml.g.cs
+C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Walks\Delete.cshtml.g.cs
+C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Walks\Index.cshtml.g.cs
