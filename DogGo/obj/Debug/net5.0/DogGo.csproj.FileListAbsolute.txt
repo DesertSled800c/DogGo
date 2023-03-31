@@ -861,3 +861,4 @@ C:\Users\deser\source\repos\DogGo\DogGo\bin\Debug\net5.0\runtimes\win-arm\lib\ne
 C:\Users\deser\source\repos\DogGo\DogGo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Walkers\Delete.cshtml.g.cs
 C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Walkers\Create.cshtml.g.cs
+C:\Users\deser\source\repos\DogGo\DogGo\obj\Debug\net5.0\Razor\Views\Owners\Login.cshtml.g.cs
